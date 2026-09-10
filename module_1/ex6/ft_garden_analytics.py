@@ -134,4 +134,3 @@ class Seed(Flower):
     def bloom(self) -> None:
         super().bloom()
         self.seeds = 42
-
